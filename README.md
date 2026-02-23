@@ -4,7 +4,7 @@
 
 ## 🏆 Achievements
 * **Competition:** NPPE-2: Automatic Disfluency Restoration.
-* **Status:** Late Submission.
+* **Status:** Done.
 * **Participant:** Sathvik V (Roll No: 22f2001468)
 
 ## 📖 Overview
